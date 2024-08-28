@@ -1,4 +1,4 @@
-# The-Lunar-Lander
+# The Lunar Lander
 This project is a Verilog-based implementation of a Lunar Lander simulation, which models the dynamics of a lunar landing sequence. The system simulates a lander's descent, 
 taking into account factors such as altitude, velocity, fuel consumption, and thrust, all while displaying the current status on seven-segment displays and LED indicators.
 
